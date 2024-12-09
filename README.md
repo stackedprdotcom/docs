@@ -10,25 +10,7 @@ The `stkd` CLI tool is designed to simplify the workflow of managing stacked pul
 
 ## **Installation**
 
-Install the `stkd` CLI tool using one of the following methods:
-
-### **Using npm**
-```bash
-npm install -g stkd-cli
-```
-
-### **Using pip**
-```bash
-pip install stkd-cli
-```
-
-### **Verifying Installation**
-To verify that the tool is installed, run:
-```bash
-stkd --version
-```
-This should output the installed version of stkd.
-
+www.stackedpr.com#signup
 ---
 
 ## **Commands**
