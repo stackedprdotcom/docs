@@ -10,7 +10,7 @@ The `stkd` CLI tool is designed to simplify the workflow of managing stacked pul
 
 ## **Installation**
 
-www.stackedpr.com#signup
+[www.stackedpr.com#signup](https://www.stackedpr.com#signup)
 ---
 
 ## **Commands**
